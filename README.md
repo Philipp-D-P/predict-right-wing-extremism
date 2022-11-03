@@ -1,4 +1,4 @@
-###  Model for Predicting Right-Wing Extremism - A Data Science Analysis of the European Social Survey
+###  Random Forest Model for Predicting Right-Wing Extremism - A Data Science Analysis of the European Social Survey
 
 #### R Version 4.0.2 (22.06.2020) - RStudio Version 1.3.1056
 <br>
